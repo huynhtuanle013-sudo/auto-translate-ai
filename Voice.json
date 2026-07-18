@@ -46,7 +46,7 @@
     "voice_type": "BV075_streaming_vibrato_dsp",
     "resource_id": "7569450639810465040",
     "gender": "male",
-    "description": "Giọng nam Việt Méo, huy hoài"
+    "description": "Giọng nam Việt Méo, huyên hoài"
   },
   {
     "name": "Mai",
@@ -60,7 +60,7 @@
     "voice_type": "multi_female_yangguangnv_uranus_bigtts",
     "resource_id": "7637456432522218773",
     "gender": "female",
-    "description": "Giọng nữ Ban Mai, tương tác cao"
+    "description": "Giọng nữ Ban Mai, tưởng tác cao"
   },
   {
     "name": "Review Phim new",
