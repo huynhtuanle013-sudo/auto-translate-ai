@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Nhỏ Ngọt Ngào",
+    "voice_type": "BV421_vivn_streaming",
+    "resource_id": "7252594014782755330",
+    "gender": "female",
+    "description": "Giọng bé gái ngọt ngào, tinh nghịch"
+  },
+  {
+    "name": "Giọng Nữ Phổ Thông",
+    "voice_type": "vi_female_huong",
+    "resource_id": "7264854897953083905",
+    "gender": "female",
+    "description": "Giọng nữ tiêu chuẩn, dễ nghe"
+  },
+  {
+    "name": "Giọng Bé",
+    "voice_type": "BV074_streaming_dsp",
+    "resource_id": "7550087831092251920",
+    "gender": "female",
+    "description": "Giọng bé trai, trong trẻo"
+  },
+  {
+    "name": "Cô Gái Hoạt Ngôn",
+    "voice_type": "BV074_streaming",
+    "resource_id": "7102355709945188865",
+    "gender": "female",
+    "description": "Giọng cô gái hoạt ngôn, vui vẻ"
+  },
+  {
+    "name": "Hoai My",
+    "voice_type": "vi-VN-HoaiMyNeural",
+    "resource_id": "7371666434650280464",
+    "gender": "female",
+    "description": "Giọng nữ Hoài Mỹ, chuyên nghiệp"
+  },
+  {
+    "name": "Nam Minh",
+    "voice_type": "vi-VN-NamMinhNeural",
+    "resource_id": "7371666524727153168",
+    "gender": "male",
+    "description": "Giọng nam Minh, giáo dục"
+  },
+  {
+    "name": "Việt Méo",
+    "voice_type": "BV075_streaming_vibrato_dsp",
+    "resource_id": "7569450639810465040",
+    "gender": "male",
+    "description": "Giọng nam Việt Méo, huy hoài"
+  },
+  {
+    "name": "Mai",
+    "voice_type": "BV562_streaming",
+    "resource_id": "7483736254694035984",
+    "gender": "female",
+    "description": "Giọng nữ Mai, mềm mại"
+  },
+  {
+    "name": "Ban Mai",
+    "voice_type": "multi_female_yangguangnv_uranus_bigtts",
+    "resource_id": "7637456432522218773",
+    "gender": "female",
+    "description": "Giọng nữ Ban Mai, tương tác cao"
+  },
+  {
+    "name": "Review Phim new",
+    "voice_type": "multi_female_richgirl_uranus_bigtts",
+    "resource_id": "7637460351541447956",
+    "gender": "female",
+    "description": "Giọng review phim nữ, xinh đẹp"
+  },
+  {
+    "name": "Bản Tin 1",
+    "voice_type": "multi_female_quanweinv_uranus_bigtts",
+    "resource_id": "7637458743197732117",
+    "gender": "female",
+    "description": "Giọng bản tin nữ, chính xác"
+  },
+  {
+    "name": "Review Phim 4",
+    "voice_type": "multi_female_stokie_uranus_bigtts",
+    "resource_id": "7637456729696996628",
+    "gender": "female",
+    "description": "Giọng review phim, cuốn hút"
+  },
+  {
+    "name": "Bản Tin nữ",
+    "voice_type": "multi_female_sisi_uranus_bigtts",
+    "resource_id": "7637455857285860629",
+    "gender": "female",
+    "description": "Giọng bản tin nữ, truyền tải"
+  },
+  {
+    "name": "Review Phim 3",
+    "voice_type": "multi_female_daqi_uranus_bigtts",
+    "resource_id": "7637451983389019409",
+    "gender": "female",
+    "description": "Giọng review phim, sôi động"
+  },
+  {
+    "name": "Sunny Idol",
+    "voice_type": "multi_female_kiwi_uranus_bigtts",
+    "resource_id": "7637457995882089749",
+    "gender": "female",
+    "description": "Giọng idol nữ Sunny, năng lượng cao"
+  },
+  {
+    "name": "Kenny Đại Đế",
+    "voice_type": "BV075_streaming_demon_dsp",
+    "resource_id": "7569442422665661712",
+    "gender": "male",
+    "description": "Giọng nam Kenny, hùng hậu"
+  },
+  {
+    "name": "Thanh Niên Tự Tin",
+    "voice_type": "BV075_streaming",
+    "resource_id": "7102355803792740865",
+    "gender": "male",
+    "description": "Giọng nam thanh niên, tự tin"
+  },
+  {
+    "name": "Alex Đại Đế",
+    "voice_type": "BV560_streaming",
+    "resource_id": "7483736167565758992",
+    "gender": "male",
+    "description": "Giọng nam Alex, quyền lực"
+  }
+]
